@@ -5,7 +5,7 @@
 
 download python API or CSV file and change step #2 in the parse
 
-![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1.png). <br>
+![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1a.png). <br>
 
 ## Step 2: Create a data table 
 
