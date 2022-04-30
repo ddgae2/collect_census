@@ -10,7 +10,7 @@ download python API or CSV file and change step #2 in the parse
 ## Step 2: Create a data table 
 
 variable are grouped into data1, data2, data3 <br>
-[Figure 2](https://github.com/ddgae2/collect_census/blob/main/figure2.png). <br>
+[Figure 2](https://github.com/ddgae2/collect_census/blob/main/Figure2.png). <br>
 
 ## Deployment
 
