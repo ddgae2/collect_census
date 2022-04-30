@@ -33,4 +33,4 @@ convert the pandas dataframe into JSON.
 
 ## Acknowledgments
 Retrieved from: http://www.city-data.com/city/Davis-California.html <br>
-Retrieved from::https://www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm
+Retrieved from: https://www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm
