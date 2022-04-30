@@ -3,18 +3,18 @@
 
 ## Step 1: Plot
 
-download python API or CSV file and change step #2 in the parse
+download the CSV file and change the step #2 in the parser
 
 ![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1.png). <br>
 
 ## Step 2: Create a data table 
 
-variable are grouped into data1, data2, data3 <br>
+Variables are grouped into data1, data2, data3 <br>
 [Figure 2](https://github.com/ddgae2/collect_census/blob/main/figure2.png). <br>
 
 ## Deployment
 
-convert pandas data frame into JSON.
+convert the pandas dataframe into JSON.
 > conda activate python38 <br>
 > python38 davis_zip.py
 
