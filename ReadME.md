@@ -15,7 +15,7 @@ variable are grouped into data1, data2, data3 <br>
 ## Deployment
 
 convert pandas data frame into JSON.
-> conda activate python38
+> conda activate python38 <br>
 > python38 davis_zip.py
 
 
