@@ -3,7 +3,7 @@
 
 ## Step 1: Plot
 
-download the CSV file and change the step #2 in the parser
+Download the CSV file and change the step #2 in the parser
 
 ![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1.png). <br>
 
