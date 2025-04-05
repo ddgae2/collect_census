@@ -28,7 +28,7 @@ Dataformats in davis_zip.py are grouped into data1, data2, data3. <br>
 
 ## Author
 
-* **David Gae**
+**David Gae**
 
 ## Acknowledgments
 Retrieved from: http://www.city-data.com/city/Davis-California.html <br>
