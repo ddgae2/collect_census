@@ -3,8 +3,8 @@
 
 ## Step 1: Plot
 
-Download the CSV file format, Book1.csv. <br>
-Change "#2) setup the file to open" in davis_zip.py <br>
+- Download a CSV file such as Book1.csv. <br>
+- Define the CSV file in davis_zip.py.<br>
 
 ![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1.png) <br>
 
