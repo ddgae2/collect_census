@@ -31,6 +31,6 @@
 **David Gae**
 
 ## References
-City data. (n.d.). Davis, California. http://www.city-data.com/city/Davis-California.html <br>
+City data. (n.d.). *Davis, California.* http://www.city-data.com/city/Davis-California.html <br>
 
 Krantz-Kent, R. (2018). *Television, capturing America's attention at prime time and beyond.* https://www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm
