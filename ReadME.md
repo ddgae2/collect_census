@@ -4,6 +4,8 @@
 ## Step 1: Plot
 
 - Download a CSV file such as Book1.csv. <br>
+  Book1.csv manually generated data source:
+  Chart 1, chart 5, and figure 1 (Krantz-Kent,2018). Davis population 2024 (City data, n.d.)
 - Define the CSV file in davis_zip.py.<br>
 
 ![Figure 1](https://github.com/ddgae2/collect_census/blob/main/Figure1.png) <br>
