@@ -59,10 +59,10 @@ def generation(r):
 	d2 = file1.iloc[2]
 	d3 = file1.iloc[3]
 	#employment
-	e = file1.iloc[34]
-	f = file1.iloc[35]
-	g = file1.iloc[36]
-	h = file1.iloc[37]
+	e = file1.iloc[32]
+	f = file1.iloc[33]
+	g = file1.iloc[34]
+	h = file1.iloc[35]
 	#gender
 	m = file1.iloc[13]
 	n = file1.iloc[14]
