@@ -7,7 +7,6 @@ import requests
 import json
 import math 
 import zip3
-#source:https://www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm
 
 def generation(r):
 	#1)always setup variable to use for pandas framework
