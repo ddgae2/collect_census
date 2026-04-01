@@ -13,7 +13,7 @@
 ## Step 2: Create a data table
 
 - Dataformats in davis_zip.py are grouped into data1, data2, data3. <br>
-![Figure 2](https://github.com/ddgae2/collect_census/blob/main/figure2.png) <br>
+![Figure 2](https://github.com/ddgae2/collect_census/blob/main/Figure2.png) <br>
 
 ## Run: Convert the pandas dataframe into JSON.
 > conda activate python38 <br>
