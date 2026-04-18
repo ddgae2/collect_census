@@ -1,7 +1,8 @@
-# Plot table: Dataframe to JSON
+
 
 Corneo (2005) argues that employed adults generally watch less TV, while unemployed individuals spend more on TV activities on a large scale. As an interesting observation, this argument is applied to a smaller population.  
 
+### Plot table: Dataframe to JSON
 ## Step 1: Plot
 
 - Download a CSV file such as Book1.csv. <br>
