@@ -1,6 +1,6 @@
 
 
-Corneo (2005) argues that employed adults generally watch less TV, while unemployed individuals spend more on TV activities on a large scale. As an interesting observation, this argument is applied to a smaller population.  
+Corneo (2005) argues that some countries of working adults generally watch less TV, while countries of some working individuals spend more on TV activities on a large scale. As an interesting observation, this argument is applied to a smaller population.  
 
 ### Plot table: Dataframe to JSON
 ## Step 1: Plot
